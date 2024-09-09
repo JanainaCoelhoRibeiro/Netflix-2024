@@ -1,0 +1,17 @@
+/* Enter your custom styles here */
+.preencherboxpreto{
+    background-color: black;
+}
+.cortextobranco{
+    color: white;
+}
+.espaçoRodapé{
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.margemLogo{
+    position: relative;
+    top: -60px;
+}
+
